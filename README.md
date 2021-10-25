@@ -4,6 +4,5 @@
 
 ### Summary H3## Summary 
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp. Header
+This repository contains all of the notes taken by GTAMaple for the Lighthouse Labs Web Development Bootcamp. Header
 
-This repository contains all of the notes taken by Sasithorn for the Lighthouse Labs Web Development Bootcamp.
